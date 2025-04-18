@@ -36,7 +36,6 @@ opt_einsum
 packaging
 pandas
 pillow
-playsound
 protobuf
 pyparsing
 python-dateutil
